@@ -1,0 +1,4 @@
+name = "SimpleCipher"
+uuid = "12345678-90ab-cdef-1234-567890abcdef"  # This should be a unique UUID generated for your package
+authors = ["Asjal Ahmad <aahmad@trinity.edu>"]
+version = "0.1.0"

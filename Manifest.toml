@@ -1,5 +1,0 @@
-[[SimpleCipher]]
-deps = ["TextAnalysis"]
-git-tree-sha1 = "a1234567890b1234567890c1234567890d123456"
-uuid = "12345678-90ab-cdef-1234-567890abcdef"
-version = "0.1.0"
